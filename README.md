@@ -1,16 +1,13 @@
-
----
+# Practice JavaScript Programming Projects
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/ztG7iIXOkx2u.png">
 </div>
 
-## JavaScript
-
 JavaScript is a programming language that can be used to create interactive web pages. Every modern web browser has built-in support for JavaScript, so it's easy to get started with this skill tree. 
 
-|   Index | Name                                                  | Level   | Project Link                                                                                           |
-|---------|-------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                            |
+|---------|-------------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------|
 |     001 | Building a Christmas Wish List Builder in React       | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-christmas-wish-list-builder-in-react)   |
 |     002 | Build a Simple Markdown Editor With Live Preview      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-simple-markdown-editor-with-live-preview)  |
 |     003 | Implement a Magnifying Glass Effect Using Canvas      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implement-a-magnifying-glass-effect-using-canvas)  |
@@ -117,8 +114,9 @@ JavaScript is a programming language that can be used to create interactive web 
 |     104 | Data Formatting and Visualization with Vue.js         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-table-data-conversion)                             |
 |     105 | Time With Your Phone                                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-time-with-your-phone)                              |
 
-### More
+## More
 
-- 🔗 [JavaScript Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#javascript)
 - 🔗 [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
