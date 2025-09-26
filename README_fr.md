@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/ztG7iIXOkx2u.png">
 </div>
 
-JavaScript est le langage de programmation du web. Cet arbre de compétences propose une méthode systématique pour apprendre JavaScript. Conçu pour les débutants en développement web, il offre une feuille de route claire pour comprendre les concepts fondamentaux, la manipulation du DOM et la programmation asynchrone. Des cours pratiques, sans vidéo, et des exercices de codage dans un environnement interactif JS vous aident à développer des compétences pratiques pour créer des applications web dynamiques.
+Apprenez le JavaScript, le langage de programmation du web, grâce à ce parcours d'apprentissage structuré. Ces cours JavaScript complets sont conçus pour les débutants, offrant une feuille de route claire pour maîtriser les concepts fondamentaux, la manipulation du DOM et la programmation asynchrone. Développez des compétences pratiques pour créer des applications web dynamiques grâce à des leçons pratiques non-vidéo et des exercices de codage dans un environnement JS interactif.
 
 ## Exercices
 
