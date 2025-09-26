@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/ztG7iIXOkx2u.png">
 </div>
 
-JavaScript es el lenguaje de programación de la web. Este Skill Tree ofrece una forma sistemática de aprender JavaScript. Diseñado para principiantes en desarrollo web, proporciona una hoja de ruta clara para comprender conceptos fundamentales, manipulación del DOM y programación asíncrona. Cursos prácticos sin video y ejercicios de codificación en un entorno interactivo de JS te ayudarán a desarrollar habilidades prácticas para crear aplicaciones web dinámicas.
+Aprende JavaScript, el lenguaje de programación de la web, con esta ruta de aprendizaje estructurada. Estos cursos completos de JavaScript están diseñados para principiantes, proporcionando una hoja de ruta clara para dominar conceptos fundamentales, manipulación del DOM y programación asíncrona. Desarrolla habilidades prácticas para crear aplicaciones web dinámicas a través de lecciones prácticas sin video y ejercicios de codificación en un entorno interactivo de JS.
 
 ## Ejercicios
 
